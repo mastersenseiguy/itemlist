@@ -137,7 +137,7 @@
 	},
 	{
 		"abr": "maninblack",
-		"price": 2000,
+		"price": 350,
 		"karmatype": "Good"
 	},
 	{
@@ -321,6 +321,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "torytalkervote",
+		"price": 750,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
@@ -342,12 +347,12 @@
 	},
 	{
 		"abr": "healanypawn",
-		"price": 2000,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healme",
-		"price": 2167,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -372,7 +377,7 @@
 	},
 	{
 		"abr": "fullheal",
-		"price": 2167,
+		"price": 1400,
 		"karmatype": "Good"
 	},
 	{
@@ -436,5 +441,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 87
+	"total": 88
 }
