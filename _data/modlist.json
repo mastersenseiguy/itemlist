@@ -45,7 +45,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.1.3.4"
+    "version": "6.1.4.3"
   },
   {
     "author": "hodlhodl",
@@ -160,5 +160,11 @@
     "name": "Door Mat",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Trinity",
+    "name": "RuntimeGC [1.3]",
+    "steamId": "2559582557",
+    "version": "0.1.0.0"
   }
 ]
