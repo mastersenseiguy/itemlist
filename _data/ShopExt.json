@@ -1,4 +1,4 @@
-{
+﻿{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -40803,6 +40803,42 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 2
+    },
+    {
+      "description": "Timmy's faith is firm. It allows him to move under any circumstances.",
+      "stats": [
+        "+10% pain shock threshold",
+        "-15% mental break threshold"
+      ],
+      "conflicts": [
+        "carefulshooter",
+        "trigger-happy",
+        "wimp"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "NewRatkinPlus",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "carefulshooter",
+          "trigger-happy",
+          "wimp"
+        ],
+        "stats": [
+          "+10% pain shock threshold",
+          "-15% mental break threshold"
+        ]
+      },
+      "defName": "Faith",
+      "name": "faith",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -40898,7 +40934,7 @@
         "karmaType": null,
         "customName": false
       },
-      "description": "토끼의 유전자를 가진, 전쟁과 건설에 능숙한 달 도시의 주민들입니다.\n\n거의 번화계 수준에 다다른 기술로 여러 우주로 이주해 다니며, 플라네타륨이 분포하는 행성을 찾아 그 달에 도시를 건설하고 있습니다. \n\n먼 거리로 인해 이전 우주의 래비들과는 단절됩니다.",
+      "description": "Inhabitants of lunar cities that carry the genes of rabbits, the rabbie excel at waging war and constructing mega-cities. They travel the galaxy in search of celestial bodies with planetarium; a drug that the rabbie population has been reliant on for survival since the begining of their history. It is believed they originally came from another galaxy, but have sinced lost the technology and have been cut off from their home galaxy.",
       "defName": "Rabbie",
       "enabled": true,
       "name": "Rabbie",
@@ -41140,6 +41176,81 @@
       "enabled": true,
       "name": "T2 Android",
       "price": 4167
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+100% Flammability",
+          "+$2000 Market value",
+          "+4.85 Move speed",
+          "+31.0C Maximum comfortable temperature",
+          "+6.0C Minimum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+45 Carrying capacity",
+          "+70% Pain shock threshold",
+          "+90% Toxic sensitivity",
+          "+110% Eating speed",
+          "+35 Meat amount",
+          "+30 Leather amount",
+          "+1.2 Melee dodge chance",
+          "+118% Aiming time",
+          "+85.00% Negotiation ability",
+          "+107.00% Social impact",
+          "+110% Mining speed",
+          "+105% Mining yield",
+          "+110% Plant work speed",
+          "+115% Hunting stealth",
+          "+90% Construction speed",
+          "+80% Research speed"
+        ],
+        "mod": "NewRatkinPlus",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.",
+      "defName": "Ratkin",
+      "enabled": true,
+      "name": "Ratkin",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+100% Flammability",
+          "+$2000 Market value",
+          "+4.85 Move speed",
+          "+31.0C Maximum comfortable temperature",
+          "+6.0C Minimum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+45 Carrying capacity",
+          "+70% Pain shock threshold",
+          "+80% Toxic sensitivity",
+          "+110% Eating speed",
+          "+35 Meat amount",
+          "+30 Leather amount",
+          "+1.2 Melee dodge chance",
+          "+118% Aiming time",
+          "+75.00% Negotiation ability",
+          "+95.00% Social impact",
+          "+110% Mining speed",
+          "+105% Mining yield",
+          "+110% Plant work speed",
+          "+115% Hunting stealth",
+          "+90% Construction speed",
+          "+80% Research speed",
+          "+85% Psychic sensitivity"
+        ],
+        "mod": "NewRatkinPlus",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.",
+      "defName": "Ratkin_Su",
+      "enabled": true,
+      "name": "Ratkin subject",
+      "price": 3333
     }
   ]
 }
