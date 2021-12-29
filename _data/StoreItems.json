@@ -13964,7 +13964,7 @@
 	},
 	{
 		"abr": "ratkin",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Ratkin"
 	},
@@ -14330,7 +14330,7 @@
 	},
 	{
 		"abr": "ratkinsubject",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Ratkin_Su"
 	},
@@ -14507,7 +14507,655 @@
 		"price": 92,
 		"category": "Manufactured",
 		"defname": "RK_WyvernAmmo_SpreadType"
+	},
+	{
+		"abr": "windmagespell:feywinds",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SpellOf_FeyWindsLearnable"
+	},
+	{
+		"abr": "arcanetome:golemancer",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfGolemancy"
+	},
+	{
+		"abr": "fleshgolem",
+		"price": 4500,
+		"category": "Animal",
+		"defname": "TM_FleshGolem"
+	},
+	{
+		"abr": "frostlynx",
+		"price": 625,
+		"category": "Animals",
+		"defname": "AA_FrostLynx"
+	},
+	{
+		"abr": "genix",
+		"price": 625,
+		"category": "Animals",
+		"defname": "AA_Genix"
+	},
+	{
+		"abr": "giantcrownedsilkie",
+		"price": 667,
+		"category": "Animals",
+		"defname": "AA_GiantCrownedSilkie"
+	},
+	{
+		"abr": "giantcrownedsilkieegg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "AA_EggGiantCrownedSilkieFertilized"
+	},
+	{
+		"abr": "giantcrownedsilkieegg(unfert.)",
+		"price": 15,
+		"category": "Eggs (unfert.)",
+		"defname": "AA_EggGiantCrownedSilkieUnfertilized"
+	},
+	{
+		"abr": "giantcrownedsilkiesilk",
+		"price": 7,
+		"category": "Wools",
+		"defname": "AA_GiantCrownedSilkieSilk"
+	},
+	{
+		"abr": "golemancerspell:awarenessbrand",
+		"price": 1333,
+		"category": "Scrolls",
+		"defname": "SpellOf_BrandAwareness"
+	},
+	{
+		"abr": "golemancerspell:emotionbrand",
+		"price": 1567,
+		"category": "Scrolls",
+		"defname": "SpellOf_BrandEmotion"
+	},
+	{
+		"abr": "golemancerspell:fitnessbrand",
+		"price": 1333,
+		"category": "Scrolls",
+		"defname": "SpellOf_BrandFitness"
+	},
+	{
+		"abr": "golemancerspell:livingwall",
+		"price": 3667,
+		"category": "Scrolls",
+		"defname": "SpellOf_LivingWall"
+	},
+	{
+		"abr": "golemancerspell:protectionbrand",
+		"price": 1567,
+		"category": "Scrolls",
+		"defname": "SpellOf_BrandProtection"
+	},
+	{
+		"abr": "golemancerspell:siphonbrand",
+		"price": 1567,
+		"category": "Scrolls",
+		"defname": "SpellOf_BrandSiphon"
+	},
+	{
+		"abr": "golemancerspell:vitalitybrand",
+		"price": 1333,
+		"category": "Scrolls",
+		"defname": "SpellOf_BrandVitality"
+	},
+	{
+		"abr": "mecha-golem",
+		"price": 5000,
+		"category": "Animal",
+		"defname": "TM_MechaGolem"
+	},
+	{
+		"abr": "ratkinbigheavyshield",
+		"price": 1008,
+		"category": "Ratkin apparel",
+		"defname": "RK_HeavyShield_Big"
+	},
+	{
+		"abr": "ratkinmace",
+		"price": 425,
+		"category": "Melee weapons",
+		"defname": "RK_Mace"
+	},
+	{
+		"abr": "slurrymaster",
+		"price": 1417,
+		"category": "Animals",
+		"defname": "VFE_Mech_Slurrymaster"
+	},
+	{
+		"abr": "tornscript:golemancer",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfGolemancy"
+	},
+	{
+		"abr": "windbeast",
+		"price": 1250,
+		"category": "Animals",
+		"defname": "AA_WindBeast"
+	},
+	{
+		"abr": "apothecaryskill:refinedmanapotion",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SkillOf_RefinedManaPotion"
+	},
+	{
+		"abr": "apothecary/blossombladerskill:beltpouch",
+		"price": 1000,
+		"category": "Scrolls",
+		"defname": "SkillOf_BeltPouch"
+	},
+	{
+		"abr": "arcanetome:runeknight",
+		"price": 5500,
+		"category": "Skill books",
+		"defname": "BookOfRuneKnight"
+	},
+	{
+		"abr": "autobroadcasterchargingstation",
+		"price": 1650,
+		"category": "Production",
+		"defname": "VFE_Mechanoids_AutobroadcasterBase"
+	},
+	{
+		"abr": "autocrane",
+		"price": 4750,
+		"category": "Production",
+		"defname": "VFEM_Autocrane"
+	},
+	{
+		"abr": "auto-medicchargingstation",
+		"price": 1850,
+		"category": "Production",
+		"defname": "VFE_Mechanoids_AutoMedicBase"
+	},
+	{
+		"abr": "autostriderchargingstation",
+		"price": 1850,
+		"category": "Production",
+		"defname": "VFE_Mechanoids_AutostriderBase"
+	},
+	{
+		"abr": "blossombladerskill:bladestorm",
+		"price": 2333,
+		"category": "Scrolls",
+		"defname": "SkillOf_Bladestorm"
+	},
+	{
+		"abr": "blossombladerskill:fallenleaf",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SkillOf_FallenLeaf"
+	},
+	{
+		"abr": "combatform:blossomblader",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfBlossomBlader"
+	},
+	{
+		"abr": "combatform:gunslinger",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfGunslinger"
+	},
+	{
+		"abr": "combatform:mechhunter",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfMechHunter"
+	},
+	{
+		"abr": "combatstyle:apothecary",
+		"price": 4292,
+		"category": "Skill books",
+		"defname": "BookOfApothecary"
+	},
+	{
+		"abr": "guardianskill:requiescat",
+		"price": 2333,
+		"category": "Scrolls",
+		"defname": "SkillOf_Requiescat"
+	},
+	{
+		"abr": "gunslingerskill:breachfire",
+		"price": 2583,
+		"category": "Scrolls",
+		"defname": "SkillOf_Breachfire"
+	},
+	{
+		"abr": "gunslingerskill:breakstep",
+		"price": 2583,
+		"category": "Scrolls",
+		"defname": "SkillOf_Breakstep"
+	},
+	{
+		"abr": "gunslingerskill:coverfire",
+		"price": 1333,
+		"category": "Scrolls",
+		"defname": "SkillOf_CoverFire"
+	},
+	{
+		"abr": "gunslingerskill:nanoseeker",
+		"price": 1667,
+		"category": "Scrolls",
+		"defname": "SkillOf_Nanoseeker"
+	},
+	{
+		"abr": "gunslinger/sniperskill:gunflame",
+		"price": 2333,
+		"category": "Scrolls",
+		"defname": "SkillOf_Gunflame"
+	},
+	{
+		"abr": "mechhunterskill:blackpowder",
+		"price": 2500,
+		"category": "Scrolls",
+		"defname": "SkillOf_Blackpowder"
+	},
+	{
+		"abr": "mechhunterskill:finalsalvo",
+		"price": 2500,
+		"category": "Scrolls",
+		"defname": "SkillOf_FinalSalvo"
+	},
+	{
+		"abr": "mechhunterskill:orbitalemp",
+		"price": 2500,
+		"category": "Scrolls",
+		"defname": "SkillOf_OrbitalEMP"
+	},
+	{
+		"abr": "mechanitepants",
+		"price": 600,
+		"category": "Armor",
+		"defname": "VFE_MechanitePants"
+	},
+	{
+		"abr": "mechaniteunderarmor",
+		"price": 683,
+		"category": "Armor",
+		"defname": "VFE_MechaniteUnderArmor"
+	},
+	{
+		"abr": "priest/clericspell:blessitem",
+		"price": 950,
+		"category": "Scrolls",
+		"defname": "SpellOf_BlessItem"
+	},
+	{
+		"abr": "pyromechanoidchargingstation",
+		"price": 2467,
+		"category": "Production",
+		"defname": "VFE_Mechanoids_PyroBase"
+	},
+	{
+		"abr": "raidermechanoidchargingstation",
+		"price": 2925,
+		"category": "Production",
+		"defname": "VFE_Mechanoids_RaiderBase"
+	},
+	{
+		"abr": "ravenousskill:livingartillery",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SkillOf_LivingArtillery"
+	},
+	{
+		"abr": "ravenousskill:secondstomach",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SkillOf_SecondStomach"
+	},
+	{
+		"abr": "ravenousskill:throneofgluttony",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SkillOf_ThroneOfGluttony"
+	},
+	{
+		"abr": "runeknightspell:balefire",
+		"price": 3333,
+		"category": "Scrolls",
+		"defname": "SpellOf_Balefire"
+	},
+	{
+		"abr": "runeknightspell:reflect",
+		"price": 2333,
+		"category": "Scrolls",
+		"defname": "SpellOf_Reflect"
+	},
+	{
+		"abr": "smallinfernospewer",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "VFE_Gun_InfernoSpewerSmall"
+	},
+	{
+		"abr": "sniperskill:heartpiercer",
+		"price": 2667,
+		"category": "Scrolls",
+		"defname": "SkillOf_Heartpiercer"
+	},
+	{
+		"abr": "tornscript:runeknight",
+		"price": 2917,
+		"category": "Skill books",
+		"defname": "Torn_BookOfRuneKnight"
+	},
+	{
+		"abr": "ancientbattery",
+		"price": 533,
+		"category": "Power",
+		"defname": "VFEA_AncientBattery"
+	},
+	{
+		"abr": "ancientbed",
+		"price": 147,
+		"category": "Furniture",
+		"defname": "VFEA_AncientBed"
+	},
+	{
+		"abr": "ancientbio-batterytank",
+		"price": 1692,
+		"category": "Power",
+		"defname": "VFEA_AncientBioBatteryTank"
+	},
+	{
+		"abr": "ancientchemfuelpoweredgenerator",
+		"price": 767,
+		"category": "Power",
+		"defname": "VFEA_AncientChemfuelPoweredGenerator"
+	},
+	{
+		"abr": "ancientcookingstation",
+		"price": 550,
+		"category": "Production",
+		"defname": "VFEA_AncientCookingStation"
+	},
+	{
+		"abr": "ancientcooler",
+		"price": 458,
+		"category": "Temperature",
+		"defname": "VFEA_AncientCooler"
+	},
+	{
+		"abr": "ancientcryptosleepsuspender",
+		"price": 733,
+		"category": "Furniture",
+		"defname": "VFEA_AncientCryptosleepSuspender"
+	},
+	{
+		"abr": "ancienteducator",
+		"price": 196,
+		"category": "Furniture",
+		"defname": "VFEA_AncientEducator"
+	},
+	{
+		"abr": "ancientfoosballtable",
+		"price": 167,
+		"category": "Furniture",
+		"defname": "VFEA_AncientFoosballTable"
+	},
+	{
+		"abr": "ancientgeothermalplant",
+		"price": 2317,
+		"category": "Power",
+		"defname": "VFEA_AncientGeothermalPlant"
+	},
+	{
+		"abr": "ancientheater",
+		"price": 271,
+		"category": "Temperature",
+		"defname": "VFEA_AncientHeater"
+	},
+	{
+		"abr": "ancienthydroponicfarm",
+		"price": 917,
+		"category": "Production",
+		"defname": "VFEA_AncientHydroponicFarm"
+	},
+	{
+		"abr": "ancientpointdefenseturret",
+		"price": 2117,
+		"category": "Security",
+		"defname": "VFEA_Turret_AncientPointDefense"
+	},
+	{
+		"abr": "ancientsecurityturret",
+		"price": 392,
+		"category": "Security",
+		"defname": "VFEA_Turret_AncientSecurityTurret"
+	},
+	{
+		"abr": "ancientsolargenerator",
+		"price": 767,
+		"category": "Power",
+		"defname": "VFEA_AncientSolarGenerator"
+	},
+	{
+		"abr": "ancientvitalsmonitor",
+		"price": 358,
+		"category": "Misc",
+		"defname": "VFEA_AncientVitalsMonitor"
+	},
+	{
+		"abr": "ancientworkshop",
+		"price": 1200,
+		"category": "Production",
+		"defname": "VFEA_AncientWorkshop"
+	},
+	{
+		"abr": "clothingrack",
+		"price": 170,
+		"category": "Furniture",
+		"defname": "LWM_Clothing_Rack"
+	},
+	{
+		"abr": "doubleshelf",
+		"price": 224,
+		"category": "Furniture",
+		"defname": "LWM_BigShelf"
+	},
+	{
+		"abr": "electricmendingstation",
+		"price": 683,
+		"category": "Production",
+		"defname": "VFEA_ElectricMendingStation"
+	},
+	{
+		"abr": "foodbasket",
+		"price": 270,
+		"category": "Furniture",
+		"defname": "LWM_Food_Basket"
+	},
+	{
+		"abr": "fueledmendingstation",
+		"price": 650,
+		"category": "Production",
+		"defname": "VFEA_FueledMendingStation"
+	},
+	{
+		"abr": "gene-tailoringpod",
+		"price": 6517,
+		"category": "Misc",
+		"defname": "VFEA_GeneTailoringPod"
+	},
+	{
+		"abr": "genomemacrothermometer",
+		"price": 2583,
+		"category": "Misc",
+		"defname": "VFEA_GenomeMacrothermometer"
+	},
+	{
+		"abr": "genomestabilizer",
+		"price": 2525,
+		"category": "Misc",
+		"defname": "VFEA_GenomeStabilizer"
+	},
+	{
+		"abr": "hampers",
+		"price": 383,
+		"category": "Furniture",
+		"defname": "LWM_FabricHamper"
+	},
+	{
+		"abr": "hayloft",
+		"price": 287,
+		"category": "Furniture",
+		"defname": "LWM_Hayloft"
+	},
+	{
+		"abr": "mealtrayrack",
+		"price": 255,
+		"category": "Furniture",
+		"defname": "LWM_MealRack"
+	},
+	{
+		"abr": "meathook",
+		"price": 254,
+		"category": "Furniture",
+		"defname": "LWM_Meat_Hook"
+	},
+	{
+		"abr": "medicinecabinet",
+		"price": 203,
+		"category": "Furniture",
+		"defname": "LWM_Medicine_Cabinet"
+	},
+	{
+		"abr": "nanitesampler",
+		"price": 6450,
+		"category": "Misc",
+		"defname": "VFEA_NaniteSampler"
+	},
+	{
+		"abr": "nanotechretractor",
+		"price": 5033,
+		"category": "Misc",
+		"defname": "VFEA_NanotechRetractor"
+	},
+	{
+		"abr": "pallet",
+		"price": 220,
+		"category": "Furniture",
+		"defname": "LWM_Pallet"
+	},
+	{
+		"abr": "palletwithwrapping",
+		"price": 321,
+		"category": "Furniture",
+		"defname": "LWM_Pallet_Covered"
+	},
+	{
+		"abr": "safe",
+		"price": 1017,
+		"category": "Furniture",
+		"defname": "LWM_Safe"
+	},
+	{
+		"abr": "simulationdrive",
+		"price": 1708,
+		"category": "Misc",
+		"defname": "VFEA_SimulationDrive"
+	},
+	{
+		"abr": "skip",
+		"price": 305,
+		"category": "Furniture",
+		"defname": "LWM_DeepStorage_Skip"
+	},
+	{
+		"abr": "stabilisedmucusinducer",
+		"price": 3400,
+		"category": "Misc",
+		"defname": "VFEA_StabilisedMucusInducer"
+	},
+	{
+		"abr": "super-nanitecentrifuge",
+		"price": 1233,
+		"category": "Misc",
+		"defname": "VFEA_SuperNaniteCentrifuge"
+	},
+	{
+		"abr": "super-nanitecontainment",
+		"price": 1192,
+		"category": "Misc",
+		"defname": "VFEA_SuperNaniteContainment"
+	},
+	{
+		"abr": "super-nanitedialyzer",
+		"price": 1600,
+		"category": "Misc",
+		"defname": "VFEA_SuperNaniteDialyzer"
+	},
+	{
+		"abr": "super-naniteinjectorpump",
+		"price": 933,
+		"category": "Misc",
+		"defname": "VFEA_SuperNaniteInjectorPump"
+	},
+	{
+		"abr": "super-nanites",
+		"price": 5667,
+		"category": "Items",
+		"defname": "VFEA_SuperNanites"
+	},
+	{
+		"abr": "tallshelves",
+		"price": 550,
+		"category": "Furniture",
+		"defname": "LWM_VeryBigShelf"
+	},
+	{
+		"abr": "walllamp",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "VFEA_WallLamp"
+	},
+	{
+		"abr": "walllamp(blue)",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "VFEA_WallLamp_Blue"
+	},
+	{
+		"abr": "walllamp(green)",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "VFEA_WallLamp_Green"
+	},
+	{
+		"abr": "walllamp(red)",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "VFEA_WallLamp_Red"
+	},
+	{
+		"abr": "weaponscabinet",
+		"price": 254,
+		"category": "Furniture",
+		"defname": "LWM_WeaponsCabinet"
+	},
+	{
+		"abr": "weaponslocker",
+		"price": 237,
+		"category": "Furniture",
+		"defname": "LWM_WeaponsLocker"
+	},
+	{
+		"abr": "legendleather",
+		"price": 23,
+		"category": "Leathers",
+		"defname": "Leather_Legend"
 	}
 	],
-	"total": 2418
+	"total": 2526
 }
